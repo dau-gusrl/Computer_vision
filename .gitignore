@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Distribution
+dist/
+build/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+*.suo
+*.user
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Model weights (large binary files)
+*.weights
+*.onnx
+*.pb
+*.pt
+*.pth
+
+# Test data
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.mp4
+*.avi
